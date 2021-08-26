@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 A long time ago, in a galaxy far, far away, Star Wars happened. Lando was involved.
-=======
-A long time ago, in a galaxy far, far away, Star Wars happened. Lando was involved. 
->>>>>>> conflict
+
